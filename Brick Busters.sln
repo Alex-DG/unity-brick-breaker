@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5B6B35FC-BD09-EF07-6564-776D7C230C43}") = "Brick Busters", "Assembly-CSharp.csproj", "{5FECE6B3-F7DC-A5E3-E94E-DA167336EAE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FECE6B3-F7DC-A5E3-E94E-DA167336EAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FECE6B3-F7DC-A5E3-E94E-DA167336EAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FECE6B3-F7DC-A5E3-E94E-DA167336EAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FECE6B3-F7DC-A5E3-E94E-DA167336EAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
