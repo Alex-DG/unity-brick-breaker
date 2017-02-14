@@ -1,3 +1,3 @@
 # unity-brick-breaker
 
-Work in progress :)
+2D Brick breaker with unity [ Work in progress :) ]
